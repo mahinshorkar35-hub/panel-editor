@@ -1,0 +1,7 @@
+input/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+config.json
+manga-reader-v2/
